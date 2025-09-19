@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Performance",
+      "request": "launch",
+      "mainClass": "Performance",
+      "projectName": "Java-DSA_93f3dbc1"
+    }
+  ]
+}
