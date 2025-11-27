@@ -13,4 +13,4 @@ public class EvenOdd {
         }
         sc.close();
     }
-}
+}i
